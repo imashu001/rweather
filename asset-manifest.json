@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/rweather/static/css/main.ef335960.chunk.css",
+    "main.js": "/github.io/rweather/static/js/main.c7aacfb8.chunk.js",
+    "main.js.map": "/github.io/rweather/static/js/main.c7aacfb8.chunk.js.map",
+    "runtime-main.js": "/github.io/rweather/static/js/runtime-main.da389a6e.js",
+    "runtime-main.js.map": "/github.io/rweather/static/js/runtime-main.da389a6e.js.map",
+    "static/js/2.3af2a60c.chunk.js": "/github.io/rweather/static/js/2.3af2a60c.chunk.js",
+    "static/js/2.3af2a60c.chunk.js.map": "/github.io/rweather/static/js/2.3af2a60c.chunk.js.map",
+    "index.html": "/github.io/rweather/index.html",
+    "precache-manifest.db81d31c309ce6768eb2982bcfb7af3f.js": "/github.io/rweather/precache-manifest.db81d31c309ce6768eb2982bcfb7af3f.js",
+    "service-worker.js": "/github.io/rweather/service-worker.js",
+    "static/css/main.ef335960.chunk.css.map": "/github.io/rweather/static/css/main.ef335960.chunk.css.map",
+    "static/js/2.3af2a60c.chunk.js.LICENSE.txt": "/github.io/rweather/static/js/2.3af2a60c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/rweather/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da389a6e.js",
+    "static/js/2.3af2a60c.chunk.js",
+    "static/css/main.ef335960.chunk.css",
+    "static/js/main.c7aacfb8.chunk.js"
+  ]
+}
